@@ -1,0 +1,6 @@
+{
+  "name": "ASTRION",
+  "description": "ASTRION — Hybrid realistic 3D space exploration game featuring spacecraft engineering, Earth launch, asteroid navigation, lunar landing, surface exploration, and Earth return.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
