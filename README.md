@@ -45,7 +45,7 @@ The project combines interactive gameplay, 3D environments, spacecraft models, a
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/astrion.git
+git clone https://github.com/sunainamir/ASTRION.git
 ```
 
 Open the project directory:
